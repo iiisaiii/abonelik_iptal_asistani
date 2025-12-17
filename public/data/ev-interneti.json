@@ -1,0 +1,69 @@
+{
+  "model": "Ev İnterneti",
+  "steps": [
+    {
+      "id": 1,
+      "title": "Hedefin ne?",
+      "description": "Bu sihirbaz sana en kısa yoldan iptal/taşınma/indirim stratejisi çıkarır.",
+      "options": [
+        "Hemen iptal",
+        "Taahhüt bitince iptal",
+        "Taahhüt devri/taşıma"
+      ],
+      "links": [
+        "BTK Abonelik Fesih (e-Devlet)"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Taahhüt bilgilerini gir",
+      "description": "Başlangıç tarihi, taahhüt süresi (12/24 ay) ve kampanya/indirim var mı?",
+      "options": [
+        "12 ay",
+        "24 ay",
+        "Bilmiyorum"
+      ],
+      "links": []
+    },
+    {
+      "id": 3,
+      "title": "İndirim/Kampanya detayları",
+      "description": "Aylık indirim tutarı ve cihaz/modem taksidi var mı?",
+      "options": [
+        "İndirim var",
+        "İndirim yok",
+        "Cihaz taksidi var"
+      ],
+      "links": []
+    },
+    {
+      "id": 4,
+      "title": "Cayma bedeli tahmini",
+      "description": "Girdiğin bilgilere göre tahmini bir aralık çıkarırız. Kesin tutar için kurumun dökümü gerekir.",
+      "options": [
+        "Devam et"
+      ],
+      "links": []
+    },
+    {
+      "id": 5,
+      "title": "İptal stratejisi seç",
+      "description": "En düşük maliyetli yolu seçmek için birkaç senaryo öneriyoruz.",
+      "options": [
+        "Hemen iptal et",
+        "Bekle",
+        "Kampanya değiştir"
+      ],
+      "links": []
+    },
+    {
+      "id": 6,
+      "title": "Hazır metinler ve dosya",
+      "description": "Operatöre iptal talebi + itiraz metni + başvuru metni (Premium).",
+      "options": [
+        "İndir"
+      ],
+      "links": []
+    }
+  ]
+}

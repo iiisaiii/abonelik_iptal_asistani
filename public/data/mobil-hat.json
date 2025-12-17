@@ -1,0 +1,63 @@
+{
+  "model": "Mobil Hat",
+  "steps": [
+    {
+      "id": 1,
+      "title": "Ne yapmak istiyorsun?",
+      "description": "Numara taşıma mı, iptal mi, paket değişimi mi?",
+      "options": [
+        "Numara taşıma",
+        "İptal",
+        "Paket değişimi"
+      ],
+      "links": []
+    },
+    {
+      "id": 2,
+      "title": "Taahhüt ve cihaz durumu",
+      "description": "Cihaz kampanyası/taksit var mı? Taahhüt süren kaç ay?",
+      "options": [
+        "Cihaz yok",
+        "Cihaz var",
+        "Bilmiyorum"
+      ],
+      "links": []
+    },
+    {
+      "id": 3,
+      "title": "İndirimlerin listesi",
+      "description": "Kalan ay sayısı + aylık indirim + ek kampanyalar.",
+      "options": [
+        "Devam"
+      ],
+      "links": []
+    },
+    {
+      "id": 4,
+      "title": "Cayma bedeli aralığı",
+      "description": "Tahmini aralık ve hangi kalemlerden oluştuğu.",
+      "options": [
+        "Devam"
+      ],
+      "links": []
+    },
+    {
+      "id": 5,
+      "title": "İşlem adımları",
+      "description": "Operatör uygulaması/çağrı merkezi/mağaza üzerinden hangi sırayla ilerlemelisin.",
+      "options": [
+        "Devam"
+      ],
+      "links": []
+    },
+    {
+      "id": 6,
+      "title": "İtiraz metinleri (Premium)",
+      "description": "Aşırı bedel/yanlış bilgilendirme için hazır metin ve kanıt checklist’i.",
+      "options": [
+        "İndir"
+      ],
+      "links": []
+    }
+  ]
+}
